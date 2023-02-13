@@ -6,7 +6,7 @@
 
 OOP graphical calculator using processing.
 
-![Calculator]()
+![Calculator](https://github.com/Lawnmowerking1/benjamin-P/blob/gh-pages/images/Calc.png?raw=true)
 
 [Source Code]()
 
